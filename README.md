@@ -36,3 +36,6 @@ To export PDFs instead, replace page.screenshot(...) with page.pdf(path=full_pdf
 
 # Credit
 Thanks to Gemini!
+
+# License
+This project is licensed under the MIT License.
